@@ -47,8 +47,8 @@ header  h1{
 header  p{
     color: white;
     font-family: var(--fonte-padrao);
-    min-width: 600px;
-    text-align: center;
+    min-width: 200px;
+    text-align:center;
     font-size: 1.2em;
     padding-left: 10px;
     padding-right: 10px;
